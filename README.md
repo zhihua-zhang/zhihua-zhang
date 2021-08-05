@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhihua(Harry) Zhang and currently pursing a MSE degree in Data Science @ University of Pennsylvania
+- 👋 Hi, I’m Zhihua(Harry) Zhang, a current student of MSE degree in Data Science @ University of Pennsylvania
 - 👀 I’m interested in combining ML/AI and human insights to better understand data and solve real problems
 - 🌱 I’m excited about learning new technology that makes better use of big data and improves our life
 - 💞️ I’m also a lover of coding, reading, music and working out
